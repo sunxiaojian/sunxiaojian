@@ -16,7 +16,7 @@
 
 My main focus is data infrastructure — streaming, lakehouse, and query systems — through contributions to open-source data projects and connectors of my own. Alongside that, I work on AI agents and the harnesses that run them.
 
-> 🚧 **Currently building — Pangrova:** a high-performance distributed query engine for lakehouse architecture, built on Apache Calcite, Apache Arrow, and Velox.
+> 🚧 **Currently building — [Pangrova](https://github.com/pangrova-io):** a high-performance distributed SQL query engine for lakehouse architecture, built on Apache Calcite, Apache Arrow, and Velox.
 
 ## Areas I focus on
 
