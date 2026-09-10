@@ -16,13 +16,15 @@
 
 My main focus is data infrastructure — streaming, lakehouse, and query systems — through contributions to open-source data projects and connectors of my own. Alongside that, I work on AI agents and the harnesses that run them.
 
+> 🚧 **Currently building — Pangrova:** a high-performance distributed query engine for lakehouse architecture, built on Apache Calcite, Apache Arrow, and Velox.
+
 ## Areas I focus on
 
 - **Streaming & messaging** — Apache Kafka · Apache RocketMQ · Apache Fluss
 - **Lakehouse & table formats** — Apache Paimon · Apache Iceberg
 - **Data integration & CDC** — Kafka Connect · Apache SeaTunnel
 - **Catalogs & metadata** — Apache Gravitino
-- **Query & analytics** — Trino · Apache Doris
+- **Query & analytics** — Distributed query engines · Apache Calcite · Apache Arrow · Velox · Trino · Apache Doris
 - **AI agents** — Agents and agent harnesses
 
 ## Open-source contributions
