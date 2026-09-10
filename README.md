@@ -38,7 +38,7 @@ Merged contributions to Apache data projects:
 
 | Area | Technologies & focus |
 | --- | --- |
-| **Messaging & streaming** | Apache Kafka · Apache RocketMQ |
+| **Messaging & streaming storage** | Apache Kafka · Apache RocketMQ · Apache Fluss |
 | **Data integration & CDC** | Kafka Connect · Apache SeaTunnel · Debezium change-event processing · Schema evolution |
 | **Lakehouse & table formats** | Apache Paimon · Apache Iceberg · Streaming ingestion · Table, schema & primary key management |
 | **Catalogs & metadata** | Apache Gravitino · JDBC & Iceberg REST catalogs |
