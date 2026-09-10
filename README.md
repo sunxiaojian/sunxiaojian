@@ -33,10 +33,6 @@ I'm an Apache RocketMQ committer working on data infrastructure — streaming, l
 
 Merged contributions to [Apache Gravitino](https://github.com/apache/gravitino/pulls?q=is%3Apr+author%3Asunxiaojian+is%3Amerged) · [Apache SeaTunnel](https://github.com/apache/seatunnel/pulls?q=is%3Apr+author%3Asunxiaojian+is%3Amerged) · [Apache Paimon](https://github.com/apache/paimon/pulls?q=is%3Apr+author%3Asunxiaojian+is%3Amerged) · [Apache Fluss](https://github.com/apache/fluss/pulls?q=is%3Apr+author%3Asunxiaojian+is%3Amerged) · [Apache RocketMQ](https://github.com/apache/rocketmq/pulls?q=is%3Apr+author%3Asunxiaojian+is%3Amerged)
 
-## Projects
-
-[**trino-rocketmq**](https://github.com/sunxiaojian/trino-rocketmq) — Trino connector for querying RocketMQ with SQL · [**paimon-kafka-connect**](https://github.com/sunxiaojian/paimon-kafka-connect) — Kafka Connect sink for Apache Paimon · [**kafka-connect-doris**](https://github.com/sunxiaojian/kafka-connect-doris) — Kafka Connect sink for Apache Doris
-
 ## Let's connect
 
 Interested in streaming data, lakehouse integrations, or agent harnesses? Explore my [repositories](https://github.com/sunxiaojian?tab=repositories), or open an issue in the relevant repository to start a technical conversation.
